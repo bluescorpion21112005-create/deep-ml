@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 7 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-10-10 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-09 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-09 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-10 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 
 ---
 

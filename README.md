@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 10 problems · 0 labs · 5 math
+**16** solved · 11 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-09 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-10-10 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-10-12 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-09 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-12 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-09 | [solution](problems/0080-normal-distribution-pdf-calculator) |

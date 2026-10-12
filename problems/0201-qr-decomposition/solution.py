@@ -1,30 +1,19 @@
-import numpy as np
+import torch
 
-def qr_decomposition(A: list[list[float]]) -> tuple[list[list[float]], list[list[float]]]:
-	"""
-	Perform QR decomposition using Gram-Schmidt process.
-	
-	Args:
-		A: An m x n matrix represented as list of lists
-	
-	Returns:
-		Tuple of (Q, R) where Q is orthogonal and R is upper triangular
-	"""
-	# Your code here
-	a_np = np.array(A, dtype=np.float64)
-	m, n = a_np.shape
+def qr_decomposition(A: torch.Tensor) -> tuple[torch.Tensor, torch.Tensor]:
+    a = A.float()
+    m, n = a.shape  # MANA BU YERDA TENGLIK BELGISI BO'LISHI KERAK
 
-	q = np.zeros((m, n))
-	r = np.zeros((n, n))
+    q = torch.zeros((m, n), dtype=a.dtype, device=a.device)
+    r = torch.zeros((n, n), dtype=a.dtype, device=a.device)  # n, n bo'lishi kerak
 
+    for j in range(n):
+        v = a[:, j].clone()
+        for i in range(j):
+            r[i, j] = torch.dot(q[:, i], a[:, j])
+            v = v - r[i, j] * q[:, i]
 
-	for j in range(n):
-		v = a_np[:, j].copy()
-		for i in range(j):
-			r[i, j] = np.dot(q[:, i], a_np[:, j])
-			v = v - r[i, j] * q[:, i]
+        r[j, j] = torch.norm(v)
+        q[:, j] = v / r[j, j]
 
-		r[j ,j] = np.linalg.norm(v)
-		q[:, j] = v / r[j, j]
-
-	return q.tolist(), r.tolist()
+    return q, r

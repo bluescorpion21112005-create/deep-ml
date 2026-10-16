@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 13 problems · 0 labs · 8 math
+**22** solved · 13 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-16 | [solution](math/0024-information-theory-entropy) |
+| [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-16 | [solution](math/0038-log-likelihood-gradients) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-10 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-11 | [solution](math/0031-regularization-and-generalization) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-10 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |

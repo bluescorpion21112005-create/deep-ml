@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:59:07.290Z",
+  "generated_at": "2026-10-21T14:45:08.068Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -385,6 +385,17 @@
       "last_pushed_at": "2026-10-20T04:59:06.378Z",
       "language": "python",
       "lines": 12
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-10-21T14:45:07.252Z",
+      "last_pushed_at": "2026-10-21T14:45:07.252Z"
     }
   }
 }

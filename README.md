@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 24 problems · 0 labs · 10 math
+**35** solved · 25 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-09 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-16 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-22 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-22 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-12 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-10-19 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |

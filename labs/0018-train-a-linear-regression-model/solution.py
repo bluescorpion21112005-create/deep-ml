@@ -20,7 +20,15 @@ def train(X, y, W, b):
     # momentum, adaptive learning rates, mini-batching, etc.
     x_t = X.T
     x_new = x_t @ X
-    x_new = np.linalg.inv(x_new)
+    x_new = np.linalg.pinv(x_t @ X)
     b = 0.0
     W = x_new @ x_t @ y
+    '''
+    x_t = X.T
+    lambda_val = 0.1
+    I = np.eye(X.shape[1])
+    x_new = np.linalg.inv(x_t @ X + lambda_val * I)
+    b = 0.0
+    W = x_new @ x_t @ y
+    '''
     return W, b

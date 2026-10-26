@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:04:42.345Z",
+  "generated_at": "2026-10-26T05:17:47.001Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -496,6 +496,19 @@
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-10-26T05:04:41.397Z",
       "last_pushed_at": "2026-10-26T05:04:41.397Z"
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-10-26T05:17:46.325Z",
+      "last_pushed_at": "2026-10-26T05:17:46.325Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

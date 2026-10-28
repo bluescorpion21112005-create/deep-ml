@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:38:08.471Z",
+  "generated_at": "2026-10-28T05:18:26.233Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -559,6 +559,19 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-28T04:38:07.438Z",
       "last_pushed_at": "2026-10-28T04:38:07.438Z"
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-10-28T05:18:25.340Z",
+      "last_pushed_at": "2026-10-28T05:18:25.340Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }

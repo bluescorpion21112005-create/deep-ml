@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:05:51.262Z",
+  "generated_at": "2026-10-31T06:14:31.957Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -622,6 +622,19 @@
       "path": "math/0049-pca-via-covariance-eigendecomposition",
       "first_solved_at": "2026-10-31T06:05:50.413Z",
       "last_pushed_at": "2026-10-31T06:05:50.413Z"
+    },
+    "problem:822": {
+      "kind": "problem",
+      "id": "822",
+      "title": "Gaussian Random Projection (Johnson-Lindenstrauss)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/822",
+      "path": "problems/0822-gaussian-random-projection-johnson-lindenstrauss",
+      "first_solved_at": "2026-10-31T06:14:30.995Z",
+      "last_pushed_at": "2026-10-31T06:14:30.995Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

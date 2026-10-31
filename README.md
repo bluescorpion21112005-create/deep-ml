@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 35 problems · 1 labs · 14 math
+**51** solved · 36 problems · 1 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-16 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-22 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-24 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
+| [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-10-31 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-22 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-12 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
